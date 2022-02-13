@@ -47,6 +47,12 @@ struct Oveja {
 
 func contarOvejas(_ ovejas: [Oveja]) -> [Oveja] {
     let pattern = #"^(?=.*a)(?=.*n).*$"#
-    return ovejas.filter { $0.color == .rojo && $0.name.range(of: pattern, options: [.regularExpression, .caseInsensitive]) != nil }
+    return ovejas.filter {
+        $0.color == .rojo &&
+        $0.name.range(
+            of: pattern,
+            options: [.regularExpression, .caseInsensitive]
+        ) != nil
+    }
 }
 ```
