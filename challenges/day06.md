@@ -36,7 +36,7 @@ Una vez que tengas el resultado... ¿cómo podrías hacer que fuese lo más ópt
 ```swift
 func sumPairs(numbers: [Int], result: Int) -> [Int]? {
     for (i, num1) in numbers.enumerated() {
-        for num2 in numbers.dropFirst(i + 1) {
+        for num2 in numbers[(i + 1)...] {
             if num1 + num2 == result {
                 return [num1, num2];
             }
