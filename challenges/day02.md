@@ -2,7 +2,8 @@
 
 > ¡Menudo lío 😵! Un elfo está ayudando a Santa Claus. Pensaba que le vendría ya ordenado de cada regalo cuantas unidades debe conseguir... ¡y le ha llegado una carta ✉️! ¡Ayúdale!
 
-Dificultad: Fácil
+<br />
+<img src="https://img.shields.io/badge/Dificultad-Fácil-brightgreen?style=for-the-badge&labelColor=black">
 
 ## Enunciado
 

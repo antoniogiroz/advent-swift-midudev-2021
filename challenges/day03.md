@@ -2,7 +2,8 @@
 
 > ¡El Grinch anda suelto y quiere fastidiar la Navidad! 😱 Vamos a arreglar el lío que ha montado en la fábrica de regalos de Santa Claus
 
-Dificultad: Normal
+<br />
+<img src="https://img.shields.io/badge/Dificultad-Normal-yellow?style=for-the-badge&labelColor=black">
 
 ## Enunciado
 

@@ -2,7 +2,8 @@
 
 > Creo que ya podemos sacar el gorro navideño, el turrón... ¡Y el árbol de navidad! 🎄 Vamos a montarlo con JavaScript.
 
-Dificultad: Normal
+<br />
+<img src="https://img.shields.io/badge/Dificultad-Normal-yellow?style=for-the-badge&labelColor=black">
 
 ## Enunciado
 

@@ -2,7 +2,8 @@
 
 > ¡Qué ganas de abrir los regalos 🎁! Estoy tan nervioso que no paro de contar los días que faltan 🤣. ¿Me ayudas creando un programita? ¡Venga!
 
-Dificultad: Fácil
+<br />
+<img src="https://img.shields.io/badge/Dificultad-Fácil-brightgreen?style=for-the-badge&labelColor=black">
 
 ## Enunciado
 

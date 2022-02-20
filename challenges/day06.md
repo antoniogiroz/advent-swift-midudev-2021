@@ -2,7 +2,8 @@
 
 > Buffff! Ya huelo las vacaciones pero todavía falta terminar los exámenes finales. ¡Y toca un poco de matemáticas! 😱 ¡Ayúdame!
 
-Dificultad: Normal
+<br />
+<img src="https://img.shields.io/badge/Dificultad-Normal-yellow?style=for-the-badge&labelColor=black">
 
 ## Enunciado
 

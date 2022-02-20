@@ -2,7 +2,8 @@
 
 > Con la emoción de que llega la navidad, nos está costando dormir bastante últimamente. Vamos a intentar usar este pequeño truco que nos ayudará a dormir más rápido 🐑.
 
-Dificultad: Fácil
+<br />
+<img src="https://img.shields.io/badge/Dificultad-Fácil-brightgreen?style=for-the-badge&labelColor=black">
 
 ## Enunciado
 
